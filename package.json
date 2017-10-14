@@ -24,8 +24,7 @@
     "redux": "^3.7.2",
     "redux-batched-actions": "^0.1.6",
     "redux-persist": "^4.9.1",
-    "superagent": "^3.6.0",
-    "tableaux-aggregator": "git+ssh://git@bitbucket.org/campudus/aggregator.git#v6.0.0"
+    "superagent": "^3.6.0"
   },
   "keywords": [
     "gatsby"
